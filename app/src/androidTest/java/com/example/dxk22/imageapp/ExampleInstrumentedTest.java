@@ -1,4 +1,4 @@
-package com.example.urmi.imagerecognitionandroid;
+package com.example.dxk22.imageapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.urmi.imagerecognitionandroid", appContext.getPackageName());
+        assertEquals("com.example.dxk22.imageapp", appContext.getPackageName());
     }
 }

@@ -1,4 +1,4 @@
-package com.example.urmi.imagerecognitionandroid;
+package com.example.dxk22.imageapp;
 
 import org.junit.Test;
 
